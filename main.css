@@ -1,0 +1,23 @@
+body {
+    background-color: crimson; 
+    color: white;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.scuba-picture {
+    height: 500px; width: 700px;
+    margin-left: 115px;
+}
+
+#number-one {
+    border: 2px solid black;
+}
+
+h3 {
+    font-style: italic; 
+    font-family: cursive;
+}
